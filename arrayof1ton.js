@@ -1,4 +1,4 @@
-// sort an array of 1 to n
+// sort an array of 1 to n using selection sort...
 
 function sortarray(arr){
     for (let i=0;i<arr.length-1;i++){
