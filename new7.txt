@@ -1,0 +1,15 @@
+ method's are:-
+
+length()
+concat():- to merge the elements
+charAt()
+charcodeAt()
+at()
+slice()
+toUppercase()
+toLowercase()
+trim(), trimStart(), trimEnd()
+repare()
+replace()
+replaceall()
+split()

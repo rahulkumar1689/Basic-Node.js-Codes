@@ -1,2 +1,4 @@
-console.log(Math.sqrt(-5))
-console.log(5+"5")
+let a = "hii"
+let b= "all"
+console.log(a.concat(" ",b));
+
